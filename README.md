@@ -1,7 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">Undergraduate Student From Bina Nusantara Majoring in Computer Science</h3>
-<img align= "right" width="400"  src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU](https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif)" alt="coding">
+
 
 - 🔭 I’m currently working on **PersonalBlog**
 
