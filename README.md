@@ -1,15 +1,21 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">Undergraduate Student From Bina Nusantara Majoring in Computer Science</h3>
+<img align= "right" width="400"  src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU](https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)" alt="coding">
+
+- 🔭 I’m currently working on **PersonalBlog**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NiceGhoul](https://github.com/NiceGhoul)
 
+- 💬 Ask me about **C, Laravel, MySQL, etc**
+
 - 📫 How to reach me **Wilsonxiason@gmail.com and wilson026@binus.ac.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wil-son-900ba2329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wil-son-900ba2329/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wil-son-900ba2329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wil-son-900ba2329" height="30" width="40" /></a>
 <a href="https://instagram.com/wil_son_xia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wil_son_xia" height="30" width="40" /></a>
 </p>
 
