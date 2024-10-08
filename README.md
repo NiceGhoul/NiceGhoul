@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C, Laravel, MySQL, etc**
 
-- 📫 How to reach me **Wilsonxiason@gmail.com and wilson026@binus.ac.id**
+- 📫 How to reach me **wilsonxiason@gmail.com and wilson026@binus.ac.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
