@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Student From Bina Nusantara Majoring in Computer Science</h3>
 
 
-- 🔭 I’m currently working on **PersonalBlog**
+- 🔭 I’m currently working on **Promtopia**
 
 - 🌱 I’m currently learning **Next.js**
 
