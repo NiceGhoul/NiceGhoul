@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NiceGhoul](https://github.com/NiceGhoul)
 
-- 💬 Ask me about **C, Laravel, MySQL, etc**
+- 💬 Ask me about **Java, Laravel, MySQL, etc**
 
 - 📫 How to reach me **wilsonxiason@gmail.com and wilson026@binus.ac.id**
 
